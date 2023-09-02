@@ -1,4 +1,4 @@
-<div style="width: 100%; heigth: 100%;">
+<div style="width: 100%;">
   <a href="https://github.com/Odair-Loretti/Odair-Loretti/blob/main/odair.svg">
     <img src="odair.svg" style="width: 100%;">
   </a>
