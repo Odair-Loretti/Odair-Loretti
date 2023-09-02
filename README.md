@@ -3,7 +3,7 @@
     <img src="odair.svg" style="width: 100%;">
   </a>
 </div>
-Olá, meu nome é Odair, sou formado em ciências contábeis e trabalho na área de Recursos Humanos/Departamento Pessoal.
+Sou formado em ciências contábeis e trabalho na área de Recursos Humanos/Departamento Pessoal.
 
 Atualmente estou no 2º período do curso de Analise e Desenvolvimento de Sistemas na Faculdade Descomplica. Estou buscando a transição de carreira para a área de tecnologia. 
 
