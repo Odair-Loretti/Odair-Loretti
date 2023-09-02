@@ -16,7 +16,7 @@
             font-size: 32px;
             margin-top: 10px;
             position: relative;
-            animation: move 3s;
+            animation: move 2s;
             
           }
 
