@@ -1,6 +1,6 @@
 <div style="width: 100%;">
-  <a href="https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  <a href="https://github.com/Odair-Loretti/Odair-Loretti/blob/main/odair.svg">
+    <img src="odair.svg" style="width: 100%;">
   </a>
 </div>
 
