@@ -1,4 +1,8 @@
-
+<div align="center">
+  <a href="https://github.com/Odair-Loretti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Odair-Loretti&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Odair-Loretti&theme=tokyonight&hide_border=false)"/>
+</div>
 
 Olá, meu nome é Odair, sou formado em ciências contábeis e trabalho na área de Recursos Humanos/Departamento Pessoal.
 
@@ -20,21 +24,7 @@ Adoro conhecer novas tecnologias, me fascina ver todo um mundo recursos e projet
 
 ## 📌 Status
 
-<div align="center">
-  <a href="https://github.com/Odair-Loretti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Odair-Loretti&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Odair-Loretti&theme=tokyonight&hide_border=false)"/>
-</div>
 
 
 
-- 👋 Hi, I’m @Odair-Loretti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Odair-Loretti/Odair-Loretti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
