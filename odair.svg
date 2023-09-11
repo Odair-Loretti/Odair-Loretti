@@ -33,7 +33,7 @@
           }
         @media only screen and (max-width: 768px) {
            .h1{
-            font-size: 8px;
+            font-size: 5px;
             }
             .programador{
             width: 25px;
