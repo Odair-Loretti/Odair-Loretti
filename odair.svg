@@ -31,12 +31,12 @@
             height: 40px;
 
           }
-        @media screen and (max-width: 768px){
+        @media screen and (max-width: 900px){
 	   .container {
 	    width: 80%;
 	   }
 	    .h1{
-            font-size: 10px;
+            font: 10;
             }
             .programador{
             width: 25px;
