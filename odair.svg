@@ -32,10 +32,7 @@
 
           }
         @media screen and (max-width: 900px){
-	   .container {
-	    width: 80%;
-	   }
-	    .h1{
+	   .h1{
             font: 10;
             }
             .programador{
