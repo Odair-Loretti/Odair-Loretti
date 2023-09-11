@@ -31,6 +31,16 @@
             height: 40px;
 
           }
+        @media only screen and (max-width: 600px) {
+           .h1{
+            font-size: 20px;
+            }
+            .programador{
+            width: 30px;
+            heigth: 25px;
+            }
+          }
+            
         </style>
   
         <div class="container">
