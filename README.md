@@ -3,7 +3,6 @@
     <img src="odair.svg" style="width: 100%;">
   </a>
 </div>
-</br>
 Sou formado em ciências contábeis e trabalho na área de Recursos Humanos/Departamento Pessoal.
 </br>
 Atualmente estou no 2º período do curso de Analise e Desenvolvimento de Sistemas na Faculdade Descomplica. Estou buscando a transição de carreira para a área de tecnologia. Adoro conhecer novas tecnologias, me fascina ver todo um mundo recursos e projetos podem ser criados apartir das linguagens de programação.
