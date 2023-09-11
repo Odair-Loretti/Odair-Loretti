@@ -1,5 +1,5 @@
-<svg fill="none" viewBox="0 0 100% 70" witdh="100%" heigth="70" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" heigth="100%">
+<svg fill="none" viewBox="0 0 100% 300" width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <style>
           .container {
@@ -16,7 +16,7 @@
             font-size: 32px;
             margin-top: 10px;
             position: relative;
-            animation: move 1s;
+            animation: move 3s;
             
           }
 
@@ -31,7 +31,6 @@
             height: 40px;
 
           }
-    
         </style>
   
         <div class="container">
