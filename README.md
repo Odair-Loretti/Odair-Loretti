@@ -23,11 +23,7 @@ Atualmente estou no 2º período do curso de Analise e Desenvolvimento de Sistem
 
 ## 📌 Status
 
-<div align="center">
-  <a href="https://github.com/Odair-Loretti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Odair-Loretti&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Odair-Loretti&theme=tokyonight&hide_border=false)"/>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Odair-Loretti&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=700)](https://git.io/streak-stats)
 
 
 
