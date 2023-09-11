@@ -5,7 +5,7 @@
           .container {
             display: flex;
             width: 100%;
-            heigth: 40px;
+            heigth: 50px;
             padding-left: 2%;
             background: linear-gradient(to left, #75bfd6, #305bb4);
             color: white;
